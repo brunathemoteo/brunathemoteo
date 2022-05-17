@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo ao meu perfil Github!
 
-### Me chamo Bruna, sou bacharel em sistemas de informação.
+### Me chamo Bruna e sou Bacharel em Sistemas de Informação.
 ### Atualmente estou estudando as tecnologias de Nodejs e React.
 
 <div>
