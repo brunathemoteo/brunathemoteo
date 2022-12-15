@@ -1,7 +1,7 @@
 ### Olá, seja bem-vindo ao meu perfil Github!
 
-### Me chamo Bruna e sou Bacharel em Sistemas de Informação.
-### Atualmente estou estudando as tecnologias de Nodejs e React.
+Me chamo Bruna e sou Bacharel em Sistemas de Informação.
+Atualmente estou estudando as tecnologias de Nodejs e React.
 
 <div>
   <a href="https://github.com/brunathemoteo">
