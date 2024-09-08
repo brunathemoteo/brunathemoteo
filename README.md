@@ -3,7 +3,7 @@ Eu sou a Bruna 👋
 
 - 💻 **Desenvolvedora Web** com foco em **JavaScript** e **C#**
 - 🎓 Formada em **Sistemas de Informação** pela faculdade **Fabra**
-- 🚀 Atualmente estou aprendendo **Node.js** para me tornar um **desenvolvedor backend** 
+- 👩‍💻 Atualmente estou aprendendo **Node.js** para me tornar um **desenvolvedor backend** 
 - 💡 Sou apaixonada por tecnologia e estou sempre buscando aprender algo novo!
 
 <div>
