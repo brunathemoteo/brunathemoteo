@@ -1,10 +1,10 @@
 ### Olá, seja bem-vindo ao meu perfil Github!
 Eu sou a Bruna 👋
 
-- 💻 **Desenvolvedora Web** com foco em **JavaScript** e **C#**
-- 🎓 Formada em **Sistemas de Informação** pela faculdade **Fabra**
-- 👩‍💻 Atualmente estou aprendendo **Node.js** para me tornar um **desenvolvedor backend** 
-- 💡 Sou apaixonada por tecnologia e estou sempre buscando aprender algo novo!
+Apaixonada por tecnologia, estou sempre em busca de novos conhecimentos e desafios.
+Comprometida com o aprendizado contínuo, estou constantemente evoluindo e aprimorando minhas habilidades com foco no desenvolvimento backend.
+
+
 
 <br>
 <div>
