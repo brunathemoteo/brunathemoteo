@@ -1,8 +1,7 @@
 ## Olá, seja bem-vindo ao meu perfil Github!
 Eu sou a Bruna 👋
 
-Apaixonada por tecnologia, estou sempre em busca de novos conhecimentos e desafios.<br><br>
-Comprometida com o aprendizado contínuo, busco evoluir constantemente e<br>
+Sou apaixonada por tecnologia e comprometida com o aprendizado contínuo, busco evoluir constantemente e<br>
 aprimorar minhas habilidades com foco no desenvolvimento **backend**.<br><br>
 
 <a href="https://www.linkedin.com/in/brunathemoteo" target="_blank">
