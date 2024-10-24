@@ -17,8 +17,8 @@ aprendizado e habilidades com foco no desenvolvimento **backend**.<br><br>
 <div style="display":inline_block>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+    <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img align="center" alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink">
-  <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 </div>
 
 ### Frontend
